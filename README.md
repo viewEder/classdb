@@ -11,3 +11,10 @@ Implementar estos en el módulo descrito anteriormente.
 3. Como usuario administrador se requiere un informe que presente:
 
    usuario (nombres completos), edad, genero, solicitudes creadas, soliciudes satisfechas
+
+
+Los requerimientos deben aplicarse a la bd:
+https://www.db4free.net/phpMyAdmin/index.php?route=/database/structure&db=tiquets
+Base de datos: tiquets
+Nombre de usuario: testuser2024
+password usuario : 2024test
